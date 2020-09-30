@@ -1,0 +1,7 @@
+google-cloud-logging
+google-cloud-secret-manager
+google-cloud-pubsub
+google-auth
+google-cloud-language
+tweepy
+googlemaps
